@@ -1,0 +1,1 @@
+this is an improved latch design for this [parametric rugged box](https://www.printables.com/model/258431-rugged-box-parametric). Uses over-the-center mechanism to create a tight seal that "clicks" in place.
